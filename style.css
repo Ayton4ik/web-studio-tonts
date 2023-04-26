@@ -90,3 +90,63 @@ h1{
     background-color: var(--accent-color);
 }
 
+.advantages-h3{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+
+    color: var(--primary-text-color);
+    }
+
+.advantages-p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: var(--secondary-text-color);
+}
+
+.about-us{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+
+    color: var(--primary-text-color);
+}
+
+.name{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: var(--primary-text-color);
+}
+
+.job{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: var(--secondary-text-color);
+    }
+
+.address-1,
+.address-2{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: var(--background-color);
+}
+
+.address-2{
+    color: rgba(255, 255, 255, 0.6);
+}
+
+footer{
+    background-color: var(--hero-background-color);
+}
